@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Web-learning
-- 👀 I’m interested in using the web with people who want agancy
-- 🌱 I’m currently learning about false information, CSS grids, scholarly communication
-- 💞️ I’m looking to collaborate with fellow educational technologists
-- 📫 How to reach me ...@weblearning
+- 👋 Hi. You'll find me on github as @Web-learning.  
+- 👀 I’m an open ed techies & critical learning designer. 
+- 🌱 Small is all for me at the moment. 
+- 💞️ I’m always looking to collaborate with fellow learning technologists or instructional designers 
+- 📫 How to reach me ...@weblearning.co.za
 
 <!---
 Web-learning/Web-learning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
