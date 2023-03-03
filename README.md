@@ -1,6 +1,6 @@
 # Introduction
 
-![Brain & Heart](https://weblearning.co.za/images/img_weird_web.png)
+![Brain & Heart](https://weblearning.co.za/images/img_weird_web.png width="200px")
 
 
 
