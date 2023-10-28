@@ -9,6 +9,9 @@
 - 🌱 Small is all for me at the moment. 
 - 💞️ I’m always looking to collaborate with fellow learning technologists or instructional designers 
 - 📫 How to reach me ...@weblearning.co.za
+<p align="center">
+<a href="https://za.linkedin.com/in/weblearning"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 <!---
 Web-learning/Web-learning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
