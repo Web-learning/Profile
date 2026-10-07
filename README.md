@@ -1,8 +1,5 @@
 # Introduction
 
-![Brain & Heart](https://weblearning.co.za/images/img_weird_web.png width="200px")
-
-
 
 - 👋 Hi. You'll find me on github as @Web-learning.  
 - 👀 I’m an open ed techies & critical learning designer. 
